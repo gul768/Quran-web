@@ -102,49 +102,7 @@ body::before {
   transform: scale(1.02);
 }
 
-/* --- Registration Section --- */
-.registration {
-  max-width: 650px;
-  margin: 50px auto;
-  padding: 35px;
-  background-color: rgba(255, 255, 255, 0.15);
-  border-radius: 20px;
-  text-align: center;
-  box-shadow: 0 8px 25px rgba(0,0,0,0.35);
-  transition: all 0.3s ease;
-}
 
-.registration h2 {
-  margin-bottom: 25px;
-  color: #fff;
-  font-size: 28px;
-}
-
-.registration form input {
-  width: 85%;
-  padding: 12px;
-  margin: 12px 0;
-  border-radius: 10px;
-  border: none;
-  outline: none;
-}
-
-.registration form button {
-  padding: 14px 30px;
-  background-color: #9c7a55;
-  color: white;
-  border: none;
-  border-radius: 30px;
-  cursor: pointer;
-  font-weight: bold;
-  font-size: 16px;
-  transition: all 0.3s ease;
-}
-
-.registration form button:hover {
-  background-color: #5a2d0c;
-  transform: scale(1.05);
-}
 
 /* --- Footer --- */
 .site-footer {
